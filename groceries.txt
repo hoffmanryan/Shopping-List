@@ -2,3 +2,4 @@ eggs
 ketchup
 peanut butter 
 bacon
+pepperjack cheese
